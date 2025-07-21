@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "HIGHLEAD-PROJECT",
+			"path": "../../Documents/HIGHLEAD-PROJECT"
+		},
+		{
+			"name": "highlead engineering project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "highlead engineering project"
+	}
+}
